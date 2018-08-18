@@ -1,3 +1,0 @@
-# blazeOS
-
-hello
